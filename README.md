@@ -1,2 +1,3 @@
 # SimpleFight
 SimpleFight from here implemented in Unity. Horribly?
+Press F to "fight", I hope...
